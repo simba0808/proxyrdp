@@ -1,4 +1,5 @@
-<h1 align="center">proxyrdp</h1>
+<h2 align="center">proxyrdp</h2>
+
 <div>
 	<p align="center">A great base for independent alternative to <a href="https://www.whmcs.com/" target="_blank"><img src="https://i.imgur.com/izxJgNX.png" width="14" height="14" alt="WHMCS">&#160;WHMCS</a>. Feel free to use this in your commerical projects.</p>
  	<p align="center">
@@ -6,9 +7,13 @@
 		<a href="https://vuejs.org/"><img src="https://img.shields.io/badge/frontend-Vue.js-42b883" alt="Vue.js" /></a>
 	</p>
 </div>
+
 <br />
+
 <h2 align="center">What is this?</h2>
+
 <p align="center">A full stack project from August 2023 for my former client, which was never fully finished due to lack of communication capacity and professionalism from the other party. The partnership just simply didn’t work out.</p>
+
 <p align="center">This is a great base for selling Virtual Private Servers, Proxies, or Web Hosting services online.</p>
 <br />
 <h2 align="center">Features</h2>
